@@ -1,7 +1,7 @@
 ### Hi there, Rahul Here 👋
 
 
-😄 I come from a computational biology background, but have an interest in software engineering, data science and general hackery.
+😄 I come from a bioinforamtics background, but have an interest in software engineering, data science and general hackery.
 
 
 
