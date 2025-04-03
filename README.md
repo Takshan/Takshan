@@ -1,6 +1,5 @@
 ### Hi there, Rahul Here 👋
 
 
-😄 I come from a bioinforamtics background, but have an interest in drug discovery with the application of machine learning algorithms, bioinformatics, chemoinformatics and general hackery.
-
-
+😄 With a background in bioinformatics, I’m passionate about translational research, leveraging machine learning, bioinformatics, and chemoinformatics to drive innovation. I love exploring new algorithms, tackling complex problems, and engaging in some good old-fashioned hackery along the way!
+Let me know if you'd like any further tweaks! 😊
